@@ -23,11 +23,11 @@ A terminal-based encryption/decryption tool supporting **Fernet** and **AES-256-
 
 ## Features
 
-- 🔐 **Fernet encryption** — simple, symmetric encryption with password or random key
-- 🛡️ **AES-256-GCM encryption** — authenticated encryption, the same standard used by HTTPS
-- 🔑 **Password-based keys** — derive a key from a memorable password using PBKDF2 + SHA256
-- 🎲 **Random key generation** — generate a secure random key when you don't want a password
-- 💥 **Graceful error handling** — wrong key? It won't crash, just tells you nicely
+-  **Fernet encryption** — simple, symmetric encryption with password or random key
+-  **AES-256-GCM encryption** — authenticated encryption, the same standard used by HTTPS
+-  **Password-based keys** — derive a key from a memorable password using PBKDF2 + SHA256
+-  **Random key generation** — generate a secure random key when you don't want a password
+-  **Graceful error handling** — wrong key? It won't crash, just tells you nicely
 
 ---
 
@@ -93,4 +93,4 @@ You'll be greeted by the menu:
 
 ## License
 
-Do whatever you want with it. Just don't encrypt anything illegal 😄
+Do whatever you want with it. Just don't encrypt anything illegal or i will send an army of laser breathing dragons to get you ;)
