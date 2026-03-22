@@ -46,7 +46,7 @@ pip install cryptography
 Run the script:
 
 ```bash
-python network.py
+python Cryptography.py
 ```
 
 You'll be greeted by the menu:
